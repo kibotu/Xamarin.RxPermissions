@@ -15,7 +15,7 @@
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <AndroidClassParser>class-parse</AndroidClassParser>
     <PackageId>RxPermissions</PackageId>
-    <PackageVersion>0.9.4</PackageVersion>
+    <PackageVersion>0.9.5</PackageVersion>
     <Authors>tbruyelle</Authors>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageLicenseUrl>https://github.com/tbruyelle/RxPermissions/blob/master/LICENSE</PackageLicenseUrl>
@@ -69,7 +69,7 @@
     <TransformFile Include="Transforms\Metadata.xml" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="Jars\rxpermissions-0.9.4.aar" />
+    <LibraryProjectZip Include="Jars\rxpermissions-0.9.5.aar" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
   <Import Project="..\packages\NuGet.Build.Packaging.0.2.2\build\NuGet.Build.Packaging.targets" Condition="Exists('..\packages\NuGet.Build.Packaging.0.2.2\build\NuGet.Build.Packaging.targets')" />

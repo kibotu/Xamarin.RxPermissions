@@ -19,7 +19,7 @@
     <Authors>tbruyelle</Authors>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageLicenseUrl>https://github.com/tbruyelle/RxPermissions/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/tbruyelle/RxPermissions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/kibotu/Xamarin.RxPermissions</PackageProjectUrl>
     <Summary>Android runtime permissions powered by RxJava</Summary>
     <PackageTags>rxandroid permissions</PackageTags>
     <Title>RxPermissions</Title>

@@ -1,4 +1,4 @@
-# RxPermissions [![Build Status](https://www.bitrise.io/app/9ce2f028d01c6c1f/status.svg?token=X-RCNlnJoO5-LhFd7vcq1Q&branch=master)](https://www.bitrise.io/app/9ce2f028d01c6c1f) ![BuildVersion](https://buildstats.info/nuget/RxPermissions)
+# RxPermissions [![Build Status](https://www.bitrise.io/app/9ce2f028d01c6c1f/status.svg?token=X-RCNlnJoO5-LhFd7vcq1Q&branch=master)](https://www.bitrise.io/app/9ce2f028d01c6c1f) [![BuildVersion](https://buildstats.info/nuget/RxPermissions)](https://www.nuget.org/packages/RxPermissions/)
 
 Port of https://github.com/tbruyelle/RxPermissions to Xamarin.
 

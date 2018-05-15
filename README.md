@@ -18,9 +18,11 @@ Add [RxPermissions](https://www.nuget.org/packages/RxPermissions)
 
     msbuild RxPermissions.sln /t:RxPermissions /p:Configuration="Release" /p:BuildProjectReferences=false
 
-## How to publish to [https://www.nuget.org/](https://www.nuget.org/)
+## How to publish nupkg
 
-nuget push RxPermissions/bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -ApiKey [myApiKey](https://www.nuget.org/account/apikeys)
+E.g.: to [https://www.nuget.org/](https://www.nuget.org/) using [myApiKey](https://www.nuget.org/account/apikeys)
+
+    nuget push RxPermissions/bin/Release/*.nupkg -Source https://api.nuget.org/v3/index.json -ApiKey myApiKey
 
 ## Contributors
 

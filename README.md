@@ -12,7 +12,7 @@ Have a look at [README.md](https://github.com/tbruyelle/RxPermissions/blob/maste
 
 Add [RxPermissions](https://www.nuget.org/packages/RxPermissions)
 
-        PM> Install-Package RxPermissions -Version 0.9.5
+        PM> Install-Package RxPermissions -Version 0.10.2
 
 ## How to build
 
